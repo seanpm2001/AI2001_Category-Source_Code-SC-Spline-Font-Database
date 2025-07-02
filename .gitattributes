@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Spline Font Database source file
+*.sfd linguist-detectable=true
+*.sfd linguist-documentation=false
+*.sfd linguist-language=Spline-Font-Database
 # R source file
 *.r linguist-detectable=true
 *.r linguist-documentation=false
@@ -183,7 +187,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 28th at 03:02 pm PST)
-# Line count (including blank lines and compiler line): 190
+# File version: 6 (2025, Tuesday, July 1st at 10:50 pm PST)
+# Line count (including blank lines and compiler line): 194
 
 # End of script
